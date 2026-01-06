@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ky Nguyen!
 
-🎓 University student developer from Vietnam
+🎓 Student developer at University of Massachusetts - Amherst </br>
 💻 Full-Stack Developer & Software Engineer
 
 ---
