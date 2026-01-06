@@ -67,7 +67,9 @@ My main interests:
 ---
 
 ## 🏅 Certifications
-<iframe src="https://badges.parchment.com/public/assertions/xMZzhzrMQh2ZH82seS38eA?embedVersion=1&amp;embedWidth=370&amp;embedHeight=167" style="width: 370px; height: 167px; border: 0px;" title="Badge: Postman API Fundamentals Student Expert"></iframe>
+[![Postman Student Expert](https://badges.parchment.com/public/assertions/xMZzhzrMQh2ZH82seS38eA/image)](https://badges.parchment.com/public/assertions/xMZzhzrMQh2ZH82seS38eA)
+
+---
 
 ## 📫 How to Reach Me
 
