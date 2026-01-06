@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ky Nguyen!
 
-🎓 Student developer at University of Massachusetts - Amherst </br>
-💻 Full-Stack Developer & Software Engineer
+🎓 Computer Science Student @ UMass Amherst  
+💻 Aspiring Software Engineer | Full-Stack Developer
 
 ---
 
@@ -12,10 +12,10 @@ I enjoy solving algorithm problems, understanding how systems work end-to-end, a
 
 My main interests:
 
-* Data Structures & Algorithms
-* Full-Stack Web Development
-* Software Architecture & Clean Code
-* Building scalable, real-world applications
+- RESTful API Design & Testing (Postman)
+- Data Structures & Algorithms (LeetCode)
+- Frontend with React & Bootstrap
+- Backend with Node.js & Express
 
 ---
 
