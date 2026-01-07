@@ -66,11 +66,6 @@ My main interests:
 
 ---
 
-## 🏅 Certifications
-[![Postman Student Expert](https://badges.parchment.com/public/assertions/xMZzhzrMQh2ZH82seS38eA/image)](https://badges.parchment.com/public/assertions/xMZzhzrMQh2ZH82seS38eA)
-
----
-
 ## 📫 How to Reach Me
 
 * 📧 Email: `qkyng041@gmail.com`
